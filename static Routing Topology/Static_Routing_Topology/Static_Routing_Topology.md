@@ -14,7 +14,7 @@ Tujuan utama adalah memahami konsep **Static Routing**, yaitu menghubungkan dua 
 ```
 
 <p align="center">
-  <img src="images/pic1.png" alt="Topologi Jaringan" width="600"/><br>
+  <img src="images/Pic1.png" alt="Topologi Jaringan" width="600"/><br>
   <b>Gambar 1.</b> Topologi Jaringan Static Routing
 </p>
 ---
@@ -39,12 +39,12 @@ Tujuan utama adalah memahami konsep **Static Routing**, yaitu menghubungkan dua 
 | PC2       | 192.168.1.3  | 255.255.255.0   | 192.168.1.1     |
 
 <p align="center">
-  <img src="images/pic2.png" alt="Konfigurasi IP PC1" width="500"/><br>
+  <img src="images/Pic2.png" alt="Konfigurasi IP PC1" width="500"/><br>
   <b>Gambar 2.</b> Konfigurasi IP Address pada PC1
 </p>
 
 <p align="center">
-  <img src="images/pic3.png" alt="Konfigurasi IP PC2" width="500"/><br>
+  <img src="images/Pic3.png" alt="Konfigurasi IP PC2" width="500"/><br>
   <b>Gambar 3.</b> Konfigurasi IP Address pada PC2
 </p>
 
@@ -56,12 +56,12 @@ Tujuan utama adalah memahami konsep **Static Routing**, yaitu menghubungkan dua 
 | PC4       | 192.168.3.3  | 255.255.255.0   | 192.168.3.1     |
 
 <p align="center">
-  <img src="images/pic4.png" alt="Gambar 4. Konfigurasi IP Address pada PC3" width="500"/><br>
+  <img src="images/Pic4.png" alt="Gambar 4. Konfigurasi IP Address pada PC3" width="500"/><br>
   <b>Gambar 4.</b> Konfigurasi IP Address pada PC3
 </p>
 
 <p align="center">
-  <img src="images/pic5.png" alt="Gambar 5. Konfigurasi IP Address pada PC4" width="500"/><br>
+  <img src="images/Pic5.png" alt="Gambar 5. Konfigurasi IP Address pada PC4" width="500"/><br>
   <b>Gambar 5.</b> Konfigurasi IP Address pada PC4
 </p>
 
@@ -75,12 +75,12 @@ Tujuan utama adalah memahami konsep **Static Routing**, yaitu menghubungkan dua 
 - **Static Route** → mengenali jaringan `192.168.2.0/24`  
 
 <p align="center">
-  <img src="images/pic6.png" alt="Gambar 6. Konfigurasi Router1 Gi0/0" width="500"/><br>
+  <img src="images/Pic6.png" alt="Gambar 6. Konfigurasi Router1 Gi0/0" width="500"/><br>
   <b>Gambar 6.</b> Konfigurasi Router1 Gi0/0
 </p>
 
 <p align="center">
-  <img src="images/pic7.png" alt="Gambar 7. Konfigurasi Router1 Gi0/1" width="500"/><br>
+  <img src="images/Pic7.png" alt="Gambar 7. Konfigurasi Router1 Gi0/1" width="500"/><br>
   <b>Gambar 7.</b> Konfigurasi Router1 Gi0/1
 </p>
 
@@ -118,12 +118,12 @@ Router(config-if)#
 - **Static Route** → mengenali jaringan `192.168.3.0/24`  
 
 <p align="center">
-  <img src="images/pic8.png" alt="Gambar 8. Konfigurasi Router2 Gi0/0" width="500"/><br>
+  <img src="images/Pic8.png" alt="Gambar 8. Konfigurasi Router2 Gi0/0" width="500"/><br>
   <b>Gambar 8.</b> Konfigurasi Router2 Gi0/0
 </p>
 
 <p align="center">
-  <img src="images/pic9.png" alt="Gambar 9. Konfigurasi Router2 Gi0/1" width="500"/><br>
+  <img src="images/Pic9.png" alt="Gambar 9. Konfigurasi Router2 Gi0/1" width="500"/><br>
   <b>Gambar 9.</b> Konfigurasi Router2 Gi0/1
 </p>
 
@@ -164,7 +164,7 @@ Reply from 192.168.1.3: bytes=32 time<1ms TTL=128
 ```
 
 <p align="center">
-  <img src="images/pic10.png" alt="Gambar 10. Hasil uji ping PC1 ke PC2" width="500"/><br>
+  <img src="images/Pic10.png" alt="Gambar 10. Hasil uji ping PC1 ke PC2" width="500"/><br>
   <b>Gambar 10.</b> Hasil uji ping PC1 ke PC2
 </p>
 
@@ -175,7 +175,7 @@ Reply from 192.168.3.3: bytes=32 time<1ms TTL=128
 ```
 
 <p align="center">
-  <img src="images/pic11.png" alt="Gambar 11. Hasil uji ping PC2 ke PC4" width="500"/><br>
+  <img src="images/Pic11.png" alt="Gambar 11. Hasil uji ping PC2 ke PC4" width="500"/><br>
   <b>Gambar 11.</b> Hasil uji ping PC2 ke PC4
 </p>
 ---
