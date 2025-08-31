@@ -190,5 +190,5 @@ Reply from 192.168.3.3: bytes=32 time<1ms TTL=128
 
 ---
 
-✍️ **Author:** Dokumentasi Jaringan Cisco – *Static Routing Topology Haris Pambudi*
+✍️ **Author:** Dokumentasi Jaringan Cisco Static Routing Topology – *Amnul Qadafi*
 
